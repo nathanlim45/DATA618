@@ -9,7 +9,7 @@ Sharpe 0.57
 Drawdown -67.4%
 
 The biggest difference from the sample model is that instead of comparing current value with yesterday's one, 
-I have used a mean of 5 day historical data. I think this makes the model do more conservative investment.'''
+I have used a mean of 5 day historical data. I think this makes the model do more conservative investment. When I compare the two model, this gave me a much better result.'''
 
 
 def initialize(context):
